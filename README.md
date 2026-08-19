@@ -5,7 +5,7 @@ I am a Cybersecurity Professional. I hold a master's degree in Engineer from UNS
 
 ## Objective
 
-My journey in Sales and Business Development has led me to land several jobs in world largest software development companies such as Microsoft more specific i have lean towards cybersecurity. I am now eager to helps organizations strengthen their cybersecurity posture while preparing for the AI era.
+My journey in IT Sales has led me to land several jobs in world largest software development companies such as Microsoft and Cisco. I am now eager to helps organizations strengthen their cybersecurity posture while preparing for the AI era.
 
 ## Tools
 
