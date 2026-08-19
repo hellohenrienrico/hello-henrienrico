@@ -1,11 +1,11 @@
 # Hello, I'm HENRI
 <a href="https://linkedin.com/in/henritobing"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a Sales and Business Development Professionals with a demonstrated history of working in the IT and energy industries. I hold a Master's Degree in Engineer from the University of New South Wales (UNSW) Sydney. 
+I am a Cybersecurity Professional. I hold a master's degree in Engineer from UNSW Sydney. ☕ Coffee fuels my curiosity | 🌏 Traveling fuels my creativity | 📚 Learning fuels everything else
 
 ## Objective
 
-My journey in Sales and Business Development has led me to land several jobs in world largest software development companies such as Microsoft more specific i have lean towards cybersecurity. I am now eager to helps organizations finds the gaps in their security posture, strengthen their Security Operations Center (SOC) and secure AI initiatives.
+My journey in Sales and Business Development has led me to land several jobs in world largest software development companies such as Microsoft more specific i have lean towards cybersecurity. I am now eager to helps organizations strengthen their cybersecurity posture while preparing for the AI era.
 
 ## Tools
 
